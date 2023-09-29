@@ -20,7 +20,7 @@ This is a simple E-Commerce website created using HTML, CSS, and JavaScript. It 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/e-commerce-website.git
+   git clone https://github.com/bhuvaneshwar-2002/e-commerce-website.git
 
 ## Screenshots
 ![Header](./Preview/Header.png)
