@@ -23,7 +23,7 @@ This is a simple E-Commerce website created using HTML, CSS, and JavaScript. It 
    git clone https://github.com/bhuvaneshwar-2002/e-commerce-website.git
 
 ## Screenshots
-![Header](./Preview/Header.png)
+![Header](Preview/Footer.PNG)
 ![Product List](./Preview/ProductList1.png)
 ![Product List](./Preview/ProductList2)
 ![Footer](./Preview/Footer.png)
