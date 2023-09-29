@@ -24,7 +24,7 @@ This is a simple E-Commerce website created using HTML, CSS, and JavaScript. It 
 
 ## Screenshots
 ![Header](Preview/Footer.PNG)
-![Product List](Preview/Product List 1.PNG  )
-![Product List](Preview/Product List 2.PNG)
+![Product List](Preview/Product-List-1.PNG  )
+![Product List](Preview/Product-List-2.PNG)
 ![Footer](Preview/Header.PNG)
 
